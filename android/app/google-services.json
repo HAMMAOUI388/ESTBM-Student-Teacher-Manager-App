@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132546231666",
+    "project_id": "nyxnyx-3ee69",
+    "storage_bucket": "nyxnyx-3ee69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132546231666:android:67846007ca8f1275f571eb",
+        "android_client_info": {
+          "package_name": "com.example.estbm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFRvZzyDTakbsLprlv2CP_FdPIE5czMRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
